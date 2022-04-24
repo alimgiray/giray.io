@@ -1,0 +1,114 @@
+[
+  {
+    "company": "Sensgreen",
+    "website": "https://www.sensgreen.com/",
+    "role": "Backend Developer / Team Lead",
+    "start": "06-2021",
+    "end": "-",
+    "tech": [
+      "node.js",
+      "postgresql",
+      "aws",
+      "aws sqs",
+      "mqtt"
+    ],
+    "description": [
+      "Sensgreen is an IoT company which does indoor climate monitoring",
+      "I've built whole backend software and infrastructure from scratch to handle millions of daily requests from sensors, generating real-time reports for users to monitor weather quality in their buildings",
+      "I also mentored and managed junior developers, did a lot of code reviews and pair programming"
+    ]
+  },
+  {
+    "company": "CodersRank",
+    "website": "https://codersrank.io/",
+    "role": "Full Stack Developer",
+    "start": "06-2019",
+    "end": "04-2021",
+    "tech": [
+      "golang",
+      "vue.js",
+      "nuxt.js",
+      "framework7",
+      "azure",
+      "rabbit mq",
+      "elasticsearch",
+      "mongodb",
+      "kubernetes",
+      "docker"
+    ],
+    "description": [
+      "CodersRank generates a 360 degree portfolio for developers by gathering real info from sources like linkedin, github & stackoverflow",
+      "I was one of the first fulltime developers in the company, worked in backend, frontend and devops parts of the application, reporting directly to the CTO"
+    ]
+  },
+  {
+    "company": "Ekinoks Software",
+    "website": "https://ekinokssoftware.com/en/index.html",
+    "role": "Software Engineer",
+    "start": "02-2019",
+    "end": "06-2019",
+    "tech": [
+      "java",
+      "swing",
+      "osgi"
+    ],
+    "description": [
+      "Ekinoks is a company does a lot of things including defense sector projects which I've worked for",
+      "I build some electronic warfare systems for F-16 jets while I was working here"
+    ]
+  },
+  {
+    "company": "Innova",
+    "website": "https://www.innova.com.tr/en",
+    "role": "Full Stack Developer",
+    "start": "06-2017",
+    "end": "02-2019",
+    "tech": [
+      "java",
+      "spring",
+      "vue.js",
+      "kafka",
+      "oracledb",
+      "kubernetes"
+    ],
+    "description": [
+      "Innova is a subsidiary of the biggest telecommunications company in Turkey, Türk Telekom",
+      "I've worked in two different projects while I was there, both of which have millions of users and billions of requests daily",
+      "Although I was a junior developer, I've built frontend parts of the applications mostly by myself"
+    ]
+  },
+  {
+    "company": "Duvar.TV",
+    "role": "Co Founder",
+    "start": "04-2016",
+    "end": "06-2017",
+    "tech": [
+      "php",
+      "javascript",
+      "ionic",
+      "java"
+    ],
+    "description": [
+      "My own startup, which allows bar owners to easily create 'activites' like quiz nights",
+      "We put some big screens on the walls and users can connect to these screen via their phones, using our app",
+      "I've worked in every aspect of the company, but eventually run out of money and closed it"
+    ]
+  },
+  {
+    "company": "Freelancer",
+    "role": "Full Stack Developer",
+    "start": "06-2012",
+    "end": "09-2014",
+    "tech": [
+      "php",
+      "html",
+      "css",
+      "javascript",
+      "mysql"
+    ],
+    "description": [
+      "Completed around 10 small to mid projects, sometimes with a team and sometimes as a solo developer",
+      "Projects ranged from personal websites to MVPs of early-stage startups"
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Bostorgay",
+    "website": "https://bostorgay.com/",
+    "start": "01-2022",
+    "end": "05-2022",
+    "tech": [
+      "node.js",
+      "vue.js",
+      "svelte",
+      "sqlite",
+      "tailwindcss"
+    ],
+    "description": [
+      "Personal music streaming application, source code is available on GitHub",
+      "Users can upload their own music or fetch them from Youtube",
+      "Worked as solo developer"
+    ]
+  },
+  {
+    "name": "Game Idea Generation Tool",
+    "website": "https://apps.com.tr/",
+    "start": "03-2022",
+    "end": "04-2022",
+    "tech": [
+      "node.js",
+      "vue.js",
+      "postgresql",
+      "tailwindcss"
+    ],
+    "description": [
+      "Freelance project for a mobile game company named APPS",
+      "It allows product managers to come up with new game ideas by randomly combining pre-classified games",
+      "Worked as solo developer"
+    ]
+  },
+  {
+    "name": "Avukatoryum",
+    "website": "https://avukatoryum.com/",
+    "start": "04-2021",
+    "end": "03-2022",
+    "tech": [
+      "node.js",
+      "next.js",
+      "react",
+      "mysql",
+      "bootstrap"
+    ],
+    "description": [
+      "QA platform for lawyers and people who needs legal assistance",
+      "Also let's lawyers to quickly setup personal pages for themselves",
+      "Developed it with a friend as a 2 person software team"
+    ]
+  },
+  {
+    "name": "Bukurs",
+    "website": "https://bukurs.com/",
+    "start": "10-2018",
+    "end": "10-2020",
+    "tech": [
+      "node.js",
+      "vue.js",
+      "mongodb",
+      "sqlite",
+      "bulma"
+    ],
+    "description": [
+      "Exam practice tool for Turkish high school students",
+      "It has video lectures and questions based on exam topics, so students can track their progress easily",
+      "Developed with ~10 different developers over time, most of them hired by me"
+    ]
+  },
+  {
+    "name": "AAL Sözlük",
+    "start": "01-2007",
+    "end": "09-2009",
+    "tech": [
+      "php",
+      "javascript",
+      "mysql",
+      "css"
+    ],
+    "description": [
+      "My first real-world project where I learned how to code",
+      "It was a clone of a popular Turkish website EkşiSözlük, but aimed for high schoolers",
+      "It was really successful at first and got around 2000 active users, but I had to shut it down to prepare for university exams"
+    ]
+  }
+]

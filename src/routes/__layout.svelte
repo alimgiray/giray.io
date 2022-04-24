@@ -1,45 +1,15 @@
 <script>
-	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
+	import Header from '../components/Header.svelte';
+	import Footer from '../components/Footer.svelte';
 </script>
 
-<Header />
-
-<main>
-	<slot />
-</main>
-
-<footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
-</footer>
-
-<style>
-	main {
-		flex: 1;
-		display: flex;
-		flex-direction: column;
-		padding: 1rem;
-		width: 100%;
-		max-width: 1024px;
-		margin: 0 auto;
-		box-sizing: border-box;
-	}
-
-	footer {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		padding: 40px;
-	}
-
-	footer a {
-		font-weight: bold;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 40px 0;
-		}
-	}
-</style>
+<div class="flex flex-col justify-between min-h-screen">
+	<div>
+		<Header />
+		<main class="p-8 pt-4">
+			<slot />
+		</main>
+	</div>
+	<Footer />
+</div>
