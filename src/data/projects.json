@@ -12,13 +12,13 @@
       "tailwindcss"
     ],
     "description": [
-      "Personal music streaming application, source code is available on GitHub",
+      "Personal music streaming app, source code is available on GitHub",
       "Users can upload their own music or fetch them from Youtube",
       "Worked as solo developer"
     ]
   },
   {
-    "name": "Game Idea Generation Tool",
+    "name": "Game Idea Tool",
     "website": "https://apps.com.tr/",
     "start": "03-2022",
     "end": "04-2022",
@@ -49,7 +49,7 @@
     "description": [
       "QA platform for lawyers and people who needs legal assistance",
       "Also let's lawyers to quickly setup personal pages for themselves",
-      "Developed it with a friend as a 2 person software team"
+      "Worked it with a friend"
     ]
   },
   {
@@ -67,7 +67,7 @@
     "description": [
       "Exam practice tool for Turkish high school students",
       "It has video lectures and questions based on exam topics, so students can track their progress easily",
-      "Developed with ~10 different developers over time, most of them hired by me"
+      "Worked with ~10 different developers over time"
     ]
   },
   {

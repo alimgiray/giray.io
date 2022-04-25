@@ -27,7 +27,7 @@
 		>.
 	</p>
 	<p class="mt-4">
-		See my full development
+		Check out my <a href="projects" class="underline">projects</a> and see my full development
 		<a href="/timeline" class="underline">timeline</a> from last 10+ years.
 	</p>
 </section>
