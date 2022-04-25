@@ -4,6 +4,11 @@
 	import Footer from '../components/Footer.svelte';
 </script>
 
+<svelte:head>
+	<title>Giray</title>
+	<meta name="description" content="Alim Giray Aytar - Fullstack Developer" />
+</svelte:head>
+
 <div class="flex flex-col justify-between min-h-screen">
 	<div>
 		<Header />

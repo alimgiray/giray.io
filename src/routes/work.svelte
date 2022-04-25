@@ -8,13 +8,13 @@
 	import Education from '../components/Education.svelte';
 </script>
 
-<section class="mt-4 text-justify">
+<section>
 	<div>
 		{#each experiences as work}
 			<Work {work} />
 		{/each}
 	</div>
-	<div>
+	<!-- <div>
 		{#each projects as project}
 			<Project {project} />
 		{/each}
@@ -23,5 +23,5 @@
 		{#each entries as education}
 			<Education {education} />
 		{/each}
-	</div>
+	</div> -->
 </section>

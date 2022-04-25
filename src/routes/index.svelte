@@ -2,14 +2,6 @@
 	export const prerender = true;
 </script>
 
-<script>
-</script>
-
-<svelte:head>
-	<title>Giray</title>
-	<meta name="description" content="Alim Giray Aytar - Fullstack Developer" />
-</svelte:head>
-
 <section class="mt-4 text-justify">
 	<h1 class="text-2xl text-center">
 		I'm <a href="/">Giray</a>, a full stack web developer from Turkey 🇹🇷

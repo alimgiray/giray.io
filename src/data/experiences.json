@@ -2,9 +2,9 @@
   {
     "company": "Sensgreen",
     "website": "https://www.sensgreen.com/",
-    "role": "Backend Developer / Team Lead",
+    "role": "Backend Developer",
     "start": "06-2021",
-    "end": "-",
+    "end": "",
     "tech": [
       "node.js",
       "postgresql",
@@ -13,7 +13,7 @@
       "mqtt"
     ],
     "description": [
-      "Sensgreen is an IoT company which does indoor climate monitoring",
+      "IoT company on monitoring indoor climates of buildings",
       "I've built whole backend software and infrastructure from scratch to handle millions of daily requests from sensors, generating real-time reports for users to monitor weather quality in their buildings",
       "I also mentored and managed junior developers, did a lot of code reviews and pair programming"
     ]
@@ -21,7 +21,7 @@
   {
     "company": "CodersRank",
     "website": "https://codersrank.io/",
-    "role": "Full Stack Developer",
+    "role": "Full Stack Dev",
     "start": "06-2019",
     "end": "04-2021",
     "tech": [
@@ -53,14 +53,14 @@
       "osgi"
     ],
     "description": [
-      "Ekinoks is a company does a lot of things including defense sector projects which I've worked for",
-      "I build some electronic warfare systems for F-16 jets while I was working here"
+      "Ekinoks operates in defense sector",
+      "I build some electronic warfare systems for F-16 jets"
     ]
   },
   {
     "company": "Innova",
     "website": "https://www.innova.com.tr/en",
-    "role": "Full Stack Developer",
+    "role": "Full Stack Dev",
     "start": "06-2017",
     "end": "02-2019",
     "tech": [
@@ -72,7 +72,7 @@
       "kubernetes"
     ],
     "description": [
-      "Innova is a subsidiary of the biggest telecommunications company in Turkey, Türk Telekom",
+      "Subsidiary of the biggest telecommunications company in Turkey, Türk Telekom",
       "I've worked in two different projects while I was there, both of which have millions of users and billions of requests daily",
       "Although I was a junior developer, I've built frontend parts of the applications mostly by myself"
     ]
@@ -96,7 +96,7 @@
   },
   {
     "company": "Freelancer",
-    "role": "Full Stack Developer",
+    "role": "Full Stack Dev",
     "start": "06-2012",
     "end": "09-2014",
     "tech": [
