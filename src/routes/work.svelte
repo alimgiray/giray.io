@@ -1,7 +1,27 @@
 <script>
-	import work from '../data/work.json';
+	import experiences from '../data/experiences.json';
 	import projects from '../data/projects.json';
-	import education from '../data/education.json';
+	import entries from '../data/education.json';
+
+	import Work from '../components/Work.svelte';
+	import Project from '../components/Project.svelte';
+	import Education from '../components/Education.svelte';
 </script>
 
-<section class="mt-4 text-justify">Work</section>
+<section class="mt-4 text-justify">
+	<div>
+		{#each experiences as work}
+			<Work {work} />
+		{/each}
+	</div>
+	<div>
+		{#each projects as project}
+			<Project {project} />
+		{/each}
+	</div>
+	<div>
+		{#each entries as education}
+			<Education {education} />
+		{/each}
+	</div>
+</section>

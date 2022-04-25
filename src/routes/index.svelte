@@ -15,9 +15,7 @@
 		I'm <a href="/">Giray</a>, a full stack web developer from Turkey 🇹🇷
 	</h1>
 	<p class="mt-8">
-		I build <a href="/work" class="underline">startups</a> but I've also worked for BigCorp<sup
-			>TM</sup
-		>
+		I build <a href="/work" class="underline">startups</a> but also worked for BigCorp<sup>TM</sup>
 		and created software with millions of users.
 	</p>
 	<p class="mt-4">
