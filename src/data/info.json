@@ -1,0 +1,29 @@
+{
+  "name": "Giray",
+  "role": "full stack web developer",
+  "country": "Turkey 🇹🇷",
+  "work": "startups",
+  "description": "but also worked for BigCorp<sup>TM</sup> and created software with millions of users.",
+  "stack": [
+    {
+      "name": "Golang",
+      "url": "https://go.dev/",
+      "logo": "go.svg"
+    },
+    {
+      "name": "Node",
+      "url": "https://nodejs.org/",
+      "logo": "node.svg"
+    },
+    {
+      "name": "Vue",
+      "url": "https://vuejs.org/",
+      "logo": "vue.svg"
+    },
+    {
+      "name": "Svelte",
+      "url": "https://svelte.dev/",
+      "logo": "svelte.svg"
+    }
+  ]
+}
