@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-slate-800 text-indigo-300 font-mono w-full md:w-1/3 mx-auto;
+  @apply bg-slate-800 text-indigo-300 font-mono ;
 }
 
 a:any-link {

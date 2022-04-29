@@ -2,7 +2,7 @@
 	export const prerender = true;
 </script>
 
-<section class="mt-4 text-justify">
+<section class="mt-4 text-justify w-full md:w-1/3 mx-auto">
 	<h1 class="text-2xl text-center">
 		I'm <a href="/">Giray</a>, a full stack web developer from Turkey 🇹🇷
 	</h1>
