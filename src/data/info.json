@@ -1,5 +1,6 @@
 {
   "name": "Giray",
+  "content": "Alim Giray Aytar - Full Stack Developer",
   "role": "full stack web developer",
   "country": "Turkey 🇹🇷",
   "work": "startups",
@@ -24,6 +25,24 @@
       "name": "Svelte",
       "url": "https://svelte.dev/",
       "logo": "svelte.svg"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/alimgiray"
+    },
+    {
+      "name": "StackOverflow",
+      "url": "https://stackoverflow.com/users/1600536/alim-giray-aytar"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/alimgiray/"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:alimgiray@gmail.com"
     }
   ]
 }
